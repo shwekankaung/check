@@ -1,3 +1,3 @@
 # check
 Webpage
-https://shwekankaung.github.io/hide/?apps=
+https://shwekankaung.github.io/check/?apps=
